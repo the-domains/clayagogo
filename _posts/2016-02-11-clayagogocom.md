@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T00:38:24.591Z'
-dateModified: '2016-02-11T00:38:05.604Z'
+datePublished: '2016-02-11T00:50:53.502Z'
+dateModified: '2016-02-11T00:47:47.726Z'
 title: Clayagogo.com
 author: []
+sourcePath: _posts/2016-02-11-clayagogocom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-clayagogocom.md
-published: true
 url: clayagogocom/index.html
 _type: Article
 
